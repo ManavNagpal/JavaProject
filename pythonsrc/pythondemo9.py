@@ -1,5 +1,5 @@
-
 number1 = 16661
+number2 = 0
 
 temp = number1
 
